@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dancechar-framework-kafka" />
+        <module name="dancechar-member-service" />
+        <module name="dancechar-framework-excel" />
+        <module name="dancechar-id-generator" />
+        <module name="dancechar-framework-log" />
+        <module name="dancechar-framework-es" />
+        <module name="dancechar-framework-traceing" />
+        <module name="dancechar-system-service" />
+        <module name="dancechar-framework-oss" />
+        <module name="dancechar-framework-jdbc" />
+        <module name="dancechar-framework-encrypt" />
+        <module name="dancechar-framework-cache" />
+        <module name="dancechar-framework-delaymsg" />
+        <module name="dancechar-base-service" />
+        <module name="dancechar-core-service" />
+        <module name="dancechar-framework-sentinel" />
+        <module name="dancechar-examples" />
+        <module name="dancechar-framework-common" />
+        <module name="dancechar-gateway" />
+        <module name="dancechar-canal-data-service" />
+        <module name="dancechar-framework-nacos" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dancechar-base-service" options="-parameters" />
+      <module name="dancechar-canal-data-service" options="-parameters" />
+      <module name="dancechar-core-service" options="-parameters" />
+      <module name="dancechar-examples" options="-parameters" />
+      <module name="dancechar-framework-cache" options="-parameters" />
+      <module name="dancechar-framework-common" options="-parameters" />
+      <module name="dancechar-framework-delaymsg" options="-parameters" />
+      <module name="dancechar-framework-encrypt" options="-parameters" />
+      <module name="dancechar-framework-es" options="-parameters" />
+      <module name="dancechar-framework-excel" options="-parameters" />
+      <module name="dancechar-framework-jdbc" options="-parameters" />
+      <module name="dancechar-framework-kafka" options="-parameters" />
+      <module name="dancechar-framework-log" options="-parameters" />
+      <module name="dancechar-framework-nacos" options="-parameters" />
+      <module name="dancechar-framework-oss" options="-parameters" />
+      <module name="dancechar-framework-sentinel" options="-parameters" />
+      <module name="dancechar-framework-traceing" options="-parameters" />
+      <module name="dancechar-gateway" options="-parameters" />
+      <module name="dancechar-id-generator" options="-parameters" />
+      <module name="dancechar-member-service" options="-parameters" />
+      <module name="dancechar-system-service" options="-parameters" />
+    </option>
+  </component>
+</project>

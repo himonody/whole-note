@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dancechar-base-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-canal-data-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-core-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-examples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-delaymsg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-encrypt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-excel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-sentinel/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-framework/dancechar-framework-traceing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-id-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-member-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dancechar-system-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
